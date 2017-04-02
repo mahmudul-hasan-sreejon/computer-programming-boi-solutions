@@ -1,6 +1,6 @@
-# Computer-Programming-Boi-Solution
+# Computer-Programming-Boi-Solutions
 
 
-problem descriptions can be found here:
+problem description can be found here:
 
 http://cpbook.subeen.com/p/blog-page_11.html
